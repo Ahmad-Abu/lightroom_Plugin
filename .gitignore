@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+*.NEF
+*.CR2
+.DS_Store
+.idea/
+data/incoming/
+
